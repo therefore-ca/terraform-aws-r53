@@ -38,7 +38,7 @@ Supported record types as follows:
 Clone the repository
 
 ```
-git clone --depth 1 git@github.com:ivan-pinatti/terraform-aws-r53.git
+git clone --depth 1 git@github.com:therefore-ca/terraform-aws-r53.git
 ```
 
 Change folder
@@ -103,13 +103,13 @@ terraform destroy
 
 ### [*Issues*](#issues)
 
-If you have problems, bugs, issues with or questions about this, please open it in [Github issues page](https://github.com/ivan-pinatti/terraform-aws-r53/issues).
+If you have problems, bugs, issues with or questions about this, please open it in [Github issues page](https://github.com/therefore-ca/terraform-aws-r53/issues).
 
 __Needless to say__, please do a little research before posting.
 
 ### [*Contributing*](#contributing)
 
-I gladly invite you to contribute for fixes, new features, or updates, large or small; I'm always thrilled to receive pull requests, and do my best to process them as fast as I can.
+We gladly invite you to contribute for fixes, new features, or updates, large or small; We are always thrilled to receive pull requests, and do our best to process them as fast as we can.
 
-Before you start to code, I recommend discussing your plans through a GitHub issue, especially for more ambitious contributions. This gives other contributors and myself a chance to point you in the right direction, give you a feedback on your design, and help you find out if someone else is working on the same thing.
+Before you start to code, we recommend discussing your plans through a GitHub issue, especially for more ambitious contributions. This gives other contributors a chance to point you in the right direction, give you a feedback on your design, and help you find out if someone else is working on the same thing.
 * * *
