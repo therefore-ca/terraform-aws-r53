@@ -20,9 +20,7 @@ aws_r53_primary_domain_cname_records = {
 }
 
 aws_r53_primary_domain_mx_records = {
-  "example.com"                              = "5 aspmx.l.google.com"
-  "example.com"                              = "10 alt1.aspmx.l.google.com"
-  "example.com"                              = "15 alt2.aspmx.l.google.com"
+  "example.com"                              = "5 aspmx.l.google.com, 10 alt1.aspmx.l.google.com, 15 alt2.aspmx.l.google.com"
 }
 
 aws_r53_primary_domain_txt_records = {
