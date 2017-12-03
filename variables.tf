@@ -40,20 +40,20 @@ variable "aws_r53_default_txt_ttl" {
 
 variable "aws_r53_primary_domain_a_records" {
   type        = "map"
-  description = "Map of A records"
+  description = "Map of A records separate by command and space (, )"
 }
 
 variable "aws_r53_primary_domain_cname_records" {
   type        = "map"
-  description = "Map of CNAME records"
+  description = "Map of CNAME records separate by command and space (, )"
 }
 
 variable "aws_r53_primary_domain_mx_records" {
   type        = "map"
-  description = "Map of MX records"
+  description = "Map of MX records separate by command and space (, )"
 }
 
 variable "aws_r53_primary_domain_txt_records" {
   type        = "map"
-  description = "Map of TXT records"
+  description = "Map of TXT records separate by command and space (, )"
 }
